@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @george-1-0-1
-- 👀 I’m interested in AI amd Robotics
-- 🌱 I’m currently learning Computer Engineering at VIT Chennai
+- 👀 I’m interested in AI and Robotics
+- 🌱 I’m currently undergrad at  VIT Chennai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
