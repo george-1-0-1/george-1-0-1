@@ -20,8 +20,9 @@ VIT Chennai
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,r,tensorflow,docker,matlab,arduino,latex)](https://skillicons.dev)
 
 ## 📶 Socials
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gd117/)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/gx0rge._?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png)](https://www.linkedin.com/in/gd117/)
+[![Instagram](https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png)](https://instagram.com/gx0rge._?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
+
 
 
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=george-1-0-1&show_icons=true&theme=radical)
