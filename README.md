@@ -1,6 +1,6 @@
 # HEYYO, je suis George !! 🙌
 
-## About Moi 
+## 😊 About Moi 
 ROBOTICS 🤖
 AI - ML ⚡
 
