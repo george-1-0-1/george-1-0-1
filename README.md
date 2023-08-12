@@ -19,6 +19,11 @@ VIT Chennai
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,r,tensorflow,docker,matlab,arduino,latex)](https://skillicons.dev)
 
+## 📶 Socials
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gd117/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/gx0rge._?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
+
+
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=george-1-0-1&show_icons=true&theme=radical)
 <!---
 george-1-0-1/george-1-0-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
