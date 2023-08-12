@@ -1,3 +1,6 @@
+Here's some scrolling text that gives the illusion of movement:
+
+▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶
 
 # HEYYO, je suis George !! 🙌
 
