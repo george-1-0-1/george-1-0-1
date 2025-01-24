@@ -9,7 +9,7 @@ VIT Chennai
 ## 🛠 Skills
 
 ### Languages 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=100&size=18&duration=3000&pause=1000&color=25FAF8&center=true&vCenter=true&width=435&lines=Python+%7C+C+%7C+C%2B%2B+%7C+Java+%7C+R+%7C+SQL+%7C+TeX+%7C+ROS1-2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=100&size=18&duration=3000&pause=1000&color=25FAF8&center=true&vCenter=true&width=435&lines=Python+%7C+C+%7C+C%2B%2B+%7C+Java+%7C+R+%7C+SQL+%7C+TeX)](https://git.io/typing-svg)
 
 ### Frameworks
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=100&size=18&duration=3000&pause=1000&color=FA0000&center=true&vCenter=true&width=435&lines=TensorFlow+%7C+Keras+%7C+NLTK+%7C+Scikit_Learn)](https://git.io/typing-svg)
