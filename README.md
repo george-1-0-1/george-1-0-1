@@ -4,7 +4,7 @@
 ROBOTICS 🤖
 AI - ML ⚡
 
-Third year Under-Grad ⚙️
+Fourth year Under-Grad ⚙️
 VIT Chennai
 ## 🛠 Skills
 
