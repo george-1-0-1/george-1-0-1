@@ -4,8 +4,8 @@
 ROBOTICS 🤖
 AI - ML ⚡
 
-Fourth year Under-Grad ⚙️
-VIT Chennai
+Postgrad MSc Robotics ⚙️
+University of Bristol, UK
 ## 🛠 Skills
 
 ### Languages 
